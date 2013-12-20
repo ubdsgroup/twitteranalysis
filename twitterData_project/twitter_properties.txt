@@ -1,0 +1,4 @@
+consumerKey=HqP2dsSTrRsN1elmKiHg8g
+consumerSecret=h5qekNSL8ihIzFgmXWT3UjaNX59B8PM7WVjB8Pa0
+accessToken=2188807326-kgDtD8lUcz7YS6cxPuRicWtDkzcAqWSAjlY6aYa
+accessTokenSecret=r9GrbJuKvsrW8Les3MmQkSnwID0MG19suCiODQ1r69C63
